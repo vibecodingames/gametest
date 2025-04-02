@@ -1,2 +1,3 @@
 # gametest
-(./assets/tapions.jpg)
+(./tapions.jpg)
+(./beachy.png)
