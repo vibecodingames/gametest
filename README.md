@@ -1,2 +1,2 @@
 # gametest
-(./tapions.jpg)
+(./assets/tapions.jpg)
